@@ -10,6 +10,7 @@ TagManager:
   - HidingSpot
   - InspectUI
   - GroundCheck
+  - Stair
   layers:
   - Default
   - TransparentFX
