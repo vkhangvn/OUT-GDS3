@@ -34,7 +34,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: window nun triggered
+    m_ConditionEvent: nun window
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 1020592501820962718}
@@ -86,7 +86,7 @@ AnimatorController:
   m_Name: nunwindowanimation-Sheet100% (1)_0
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: window nun triggered
+  - m_Name: nun window
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -141,7 +141,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 2
-    m_ConditionEvent: window nun triggered
+    m_ConditionEvent: nun window
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -606093618378455071}
