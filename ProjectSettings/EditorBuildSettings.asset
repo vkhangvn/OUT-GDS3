@@ -17,4 +17,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Library.unity
     guid: 9cd88753f618589488a8d66bbaf6bfdc
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: f0957a4f38a8a14458d153a54ea25a69
+  - enabled: 1
+    path: Assets/Scenes/Hidden room.unity
+    guid: 6ab8d9da79e937f47a87111bd0332b63
+  - enabled: 1
+    path: Assets/Scenes/Storage.unity
+    guid: aa27734d9774d2145b25e00b526ef606
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 0a05accdb9c13c6489cd31f703d4b04e
+  - enabled: 1
+    path: Assets/Scenes/Main door.unity
+    guid: fa4eca57f4f5c1746995e99f00bfdf6a
   m_configObjects: {}
