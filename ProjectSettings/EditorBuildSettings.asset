@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main door.unity
     guid: fa4eca57f4f5c1746995e99f00bfdf6a
+  - enabled: 1
+    path: Assets/Scenes/Prayer room.unity
+    guid: 186067ba2001be047b4bd8a84e906fc9
   m_configObjects: {}
