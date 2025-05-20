@@ -6,33 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: f0957a4f38a8a14458d153a54ea25a69
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 0a05accdb9c13c6489cd31f703d4b04e
+  - enabled: 1
     path: Assets/Scenes/Bedroom.unity
     guid: 307a57442e9524641a41bcc1bab72e04
   - enabled: 1
     path: Assets/Scenes/Hallway.unity
     guid: 37bf2d104828f5340a741f9007caa7f8
   - enabled: 1
-    path: Assets/Scenes/Kitchen.unity
-    guid: c32974fbde2aac342940100f23e002e6
-  - enabled: 1
     path: Assets/Scenes/Library.unity
     guid: 9cd88753f618589488a8d66bbaf6bfdc
   - enabled: 1
-    path: Assets/Scenes/Main menu.unity
-    guid: f0957a4f38a8a14458d153a54ea25a69
-  - enabled: 1
-    path: Assets/Scenes/Hidden room.unity
-    guid: 6ab8d9da79e937f47a87111bd0332b63
+    path: Assets/Scenes/Kitchen.unity
+    guid: c32974fbde2aac342940100f23e002e6
   - enabled: 1
     path: Assets/Scenes/Storage.unity
     guid: aa27734d9774d2145b25e00b526ef606
   - enabled: 1
-    path: Assets/Scenes/Tutorial.unity
-    guid: 0a05accdb9c13c6489cd31f703d4b04e
+    path: Assets/Scenes/Prayer room.unity
+    guid: 186067ba2001be047b4bd8a84e906fc9
+  - enabled: 1
+    path: Assets/Scenes/Hidden room.unity
+    guid: 6ab8d9da79e937f47a87111bd0332b63
   - enabled: 1
     path: Assets/Scenes/Main door.unity
     guid: fa4eca57f4f5c1746995e99f00bfdf6a
   - enabled: 1
-    path: Assets/Scenes/Prayer room.unity
-    guid: 186067ba2001be047b4bd8a84e906fc9
+    path: Assets/Scenes/Level 2.unity
+    guid: f3489c20e8715dc458e0a8302669c0d0
   m_configObjects: {}
